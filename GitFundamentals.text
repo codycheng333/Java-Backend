@@ -1,0 +1,40 @@
+Git Fundamentals
+
+Overview for Github: # video: https://www.youtube.com/watch?v=HVsySz-h9r4
+
+install git # https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+git --version
+
+git config --global user.name "Your name"
+git config --global user.email "your Email"
+git config --list
+
+
+# Where to start with? - get it from remote or others' repo to your own local
+
+git clone .. - How to get it work?
+
+https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password
+
+
+Some ways to setup connection
+
+1. URL connecting - setting up PAT(Personal Access Token) and cache
+
+And how to cache it?
+
+
+2. SSH connecting - setting up ssh keys 
+
+# https://kbroman.org/github_tutorial/pages/first_time.html
+
+Follow the vido again and play with it!  # video: https://www.youtube.com/watch?v=HVsySz-h9r4
+
+A practice to git push 
+
+
+
+
+
+
